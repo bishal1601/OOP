@@ -8,8 +8,6 @@ public class Student
 
     public void Print()
     {
-        Console.WriteLine(Name);
-        Console.WriteLine(Age);
-        Console.WriteLine(Class);
+        Console.WriteLine(Name , Age , Class );
     }
 }

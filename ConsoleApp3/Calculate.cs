@@ -3,6 +3,7 @@
 public class Calculate
 {
     public int a, b, c;
+    
 
     public int Sum()
     {
